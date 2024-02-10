@@ -24,6 +24,7 @@ python app.py
 
 ## Usage
 1.Enter the desired values for number of bedrooms, bathrooms, size, and zip code in the input fields.
+
 2.Click the "Predict" button to see the predicted house price.
 
 ## Technologies Used
